@@ -24,7 +24,11 @@ on:
 
     branches:
 
-      - mainjobs:
+      - main
+
+
+
+jobs:
 
   generate:
 
