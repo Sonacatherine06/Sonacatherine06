@@ -25,6 +25,8 @@ I'm an **Electronics & Communication Engineering** student at **IIIT Kottayam**,
 | [go-docker-practice](https://github.com/Sonacatherine06/go-docker-practice) | 10 beginner-friendly Go programs with Docker support |
 | [go-learning](https://github.com/Sonacatherine06/go-learning) | Go programming practice programs |
 | [pico-led-blink](https://github.com/Sonacatherine06/pico-led-blink) | Raspberry Pi Pico LED blink with MicroPython |
+| [AWS-EC2-Projects](https://github.com/Sonacatherine06/AWS-EC2-Projects) | Bash scripts for AWS EC2 automation |
+| [PM-Vikas-Miniproject](https://github.com/Sonacatherine06/PM-Vikas-Miniproject) | PM-VIKAS railway gate control system |
 | [myportfolio](https://github.com/Sonacatherine06/myportfolio) | Personal portfolio website (HTML, CSS, JavaScript) |
 | [Arduino_Projects](https://github.com/Sonacatherine06/Arduino_Projects) | Arduino projects repository |
 
