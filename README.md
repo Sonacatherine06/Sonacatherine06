@@ -104,13 +104,6 @@ MATLAB
 📟 Arduino Sensor Projects
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sonacatherine06&theme=tokyonight">
-</p>
-
 # 🔥 GitHub Streak
 
 <p align="center">
