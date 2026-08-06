@@ -108,8 +108,8 @@ MATLAB
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonacatherine06&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonacatherine06&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sonacatherine06&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sonacatherine06&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 # 🔥 GitHub Streak
