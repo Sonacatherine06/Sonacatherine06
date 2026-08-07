@@ -1,83 +1,110 @@
-<h1 align="center">Hi 👋, I'm Sona Catherine</h1>
+<!-- Banner -->
+<h1 align="center">Hi 👋 I'm Sona Catherine</h1>
 
 <h3 align="center">
 Electronics & Communication Engineering Student | Embedded Systems | IoT | AWS | ESP32
 </h3>
 
 <p align="center">
-Passionate about building practical embedded systems, IoT solutions, and cloud-based applications. I enjoy learning by developing real-world projects using microcontrollers, Linux, and AWS.
+Building hardware and software solutions one project at a time.
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-- 🎓 Final Year B.Tech Electronics & Communication Engineering Student
-- 🔧 Interested in Embedded Systems and IoT Development
-- ☁️ Currently learning AWS Cloud (EC2, IoT Core)
-- ⚡ Working with ESP32, Arduino and Linux
-- 🌱 Learning Docker, Bash Scripting and ESP-IDF
-- 🚀 Building practical hardware and software projects
-- 📍 Kerala, India
+🎓 Final Year B.Tech Electronics & Communication Engineering Student
+
+🔧 Passionate about
+- Embedded Systems
+- Internet of Things (IoT)
+- ESP32 & Arduino
+- AWS Cloud
+- Electronics Projects
+- Automation
+
+💡 I enjoy converting ideas into real working hardware.
+
+📍 Kerala, India
 
 ---
 
-## 🛠️ Technical Skills
+# 🚀 What I'm Working On
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+✅ ESP32 Projects
 
-### Embedded & IoT
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
-![IoT](https://img.shields.io/badge/IoT-4285F4?style=for-the-badge)
+✅ Arduino Projects
+
+✅ AWS EC2 Projects
+
+✅ Docker + Go Learning
+
+✅ Embedded C Programming
+
+✅ IoT Applications
+
+---
+
+# 🛠 Tech Stack
+
+### Programming
+
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-orange?style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+
+### Embedded
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+
+![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
+
+![STM32](https://img.shields.io/badge/STM32-blue?style=for-the-badge)
+
+![PIC](https://img.shields.io/badge/PIC16F877A-red?style=for-the-badge)
 
 ### Cloud
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
-### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
----
+### Tools
 
-## 📂 Featured Projects
+Git
 
-- 🚦 PM Vikas Mini Project
-- ☁️ AWS EC2 Projects
-- 📡 ESP32 Wokwi Projects
-- 🤖 Sensor Projects
-- ⚙️ Actuator Projects
-- 🔌 Multiple Sensor & Actuator Projects
+GitHub
 
----
+Proteus
 
-## 🎯 Current Learning
+Wokwi
 
-- AWS EC2
-- AWS IoT Core
-- Docker
-- Linux Administration
-- Bash Scripting
-- ESP-IDF Development
+Tinkercad
+
+MATLAB
 
 ---
 
-## 📊 GitHub Statistics
+# 📂 Featured Projects
 
-<p align="center">
+🚦 Smart Railway Crossing
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sonacatherine06&show_icons=true&theme=tokyonight"/>
+🍺 Alcohol Detection Engine Lock
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonacatherine06&layout=compact&theme=tokyonight"/>
+💪 Muscle Translation Device
 
-</p>
+🔔 Smart Reminder System
+
+📡 ESP32 IoT Projects
+
+🐳 Docker + Go Practice
+
+☁️ AWS EC2 Projects
+
+📟 Arduino Sensor Projects
+
+---
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -87,37 +114,47 @@ Passionate about building practical embedded systems, IoT solutions, and cloud-b
 
 ---
 
-## 🏆 Goals for 2026
+# 🌱 Currently Learning
 
-- ✅ Build 50+ GitHub Projects
-- 🔲 Master Embedded Systems Development
-- 🔲 Complete AWS Cloud Projects
-- 🔲 Develop IoT Solutions
-- 🔲 Learn ESP-IDF
-- 🔲 Contribute to Open Source
-
----
-
-## 📫 Connect With Me
-
-📧 Email: YOUR_EMAIL
-
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-
-🌐 Portfolio: https://sonacatherine06.github.io/myportfolio/
+- AWS Cloud
+- Docker
+- ESP-IDF
+- Embedded Linux
+- FreeRTOS
+- IoT Security
 
 ---
 
-<p align="center">
+# 📜 Certifications
 
-![](https://komarev.com/ghpvc/?username=Sonacatherine06&style=for-the-badge&color=blue)
+🏅 MATLAB Onramp
 
-</p>
+🏅 NPTEL Design Thinking
+
+🏅 PCB Design Workshop
+
+🏅 Underwater Robotics Workshop
 
 ---
 
-<p align="center">
+# 📫 Connect With Me
 
-<i>"Learning by building practical Embedded Systems, IoT and Cloud projects."</i>
+📧 Email
 
-</p>
+sonacatherine06@gmail.com
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/sona-catherine/
+
+🌍 Portfolio
+
+https://sonacatherine06.github.io/myportfolio/
+
+---
+
+# 💭 Quote
+
+"Every project teaches something that books alone cannot."
+
+⭐ Thanks for visiting my profile!
