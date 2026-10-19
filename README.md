@@ -125,15 +125,11 @@ I enjoy building practical solutions that combine **electronics, embedded system
 
 Arduino-based railway safety system using sensors, LEDs, buzzer, LCD and servo motor for automated railway-crossing control.
 
-🔗 **[View Project](https://github.com/Sonacatherine06)**
-
 ---
 
 ### 🍺 Alcohol Detection Engine Lock
 
 Embedded safety system that detects alcohol presence and prevents ignition when the alcohol level exceeds a set threshold. Programmed in **Embedded C**.
-
-🔗 **[View Project](https://github.com/Sonacatherine06)**
 
 ---
 
@@ -141,15 +137,11 @@ Embedded safety system that detects alcohol presence and prevents ignition when 
 
 Assistive biomedical system that captures muscle signals with an **EMG sensor**, processes them on an **STM32** microcontroller and converts them into useful control actions.
 
-🔗 **[View Project](https://github.com/Sonacatherine06)**
-
 ---
 
 ### ⏰ Smart Reminder System for Paralysed Patients
 
 **ESP32**-based scheduling and alert system with buzzer and display, plus an LDR-based automatic lighting control.
-
-🔗 **[View Project](https://github.com/Sonacatherine06)**
 
 ---
 
@@ -174,6 +166,22 @@ Hands-on cloud projects involving **EC2, Linux, system monitoring, Docker and se
 Learning and experimenting with Go applications, Docker containers and containerized services.
 
 🔗 **[Explore Go Projects](https://github.com/Sonacatherine06/go-docker-practice)**
+
+---
+
+# 🗂️ More Repositories
+
+| Repository | About |
+|---|---|
+| 🌙 [**Night Intruder Tracking System**](https://github.com/Sonacatherine06/-Night-Intruder-Tracking-System) | Embedded project in C++ |
+| 🌐 [**ESP32 IoT Mini Projects**](https://github.com/Sonacatherine06/ESP32-IoT-Mini-Projects) | Beginner-friendly ESP32 IoT mini projects using Wokwi simulation and the Arduino framework |
+| 📟 [**Sensor Projects**](https://github.com/Sonacatherine06/Sensor_Projects) | Sensor-based embedded projects |
+| ⚙️ [**Actuator Projects**](https://github.com/Sonacatherine06/Actuator-Projects) | Actuator-based embedded projects |
+| 🔀 [**Multiple Sensor Actuator**](https://github.com/Sonacatherine06/Multiple-Sensor-Actuator) | Projects combining several sensors and actuators |
+| 💡 [**One Sensor One Actuator**](https://github.com/Sonacatherine06/one-sensor-one-actuator) | Simple one-sensor, one-actuator projects |
+| 🥧 [**Pico LED Blink**](https://github.com/Sonacatherine06/pico-led-blink) | MicroPython project for Raspberry Pi Pico that blinks the onboard LED every second |
+| 🐹 [**Go Learning**](https://github.com/Sonacatherine06/go-learning) | Beginner Go programs |
+| 🏛️ [**PM Vikas Miniproject**](https://github.com/Sonacatherine06/PM-Vikas-Miniproject) | Mini project in C++ |
 
 ---
 
